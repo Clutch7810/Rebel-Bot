@@ -49,9 +49,9 @@
 
 	5. Help Module
 		a. ~help
-			Description: Displays a link to help users with using Rebel Bot
-			Syntax: "~help"
-			Perms: None
+				Description: Displays a link to help users with using Rebel Bot
+				Syntax: "~help"
+				Perms: None
 
 
 
