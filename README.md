@@ -21,7 +21,7 @@
 				Description: Withdraws an amount of gold from the Jefferson Central Bank
 				Syntax: " ~wbank (number of gold) (Reason for withdrawal) "
 				Channels: Rebel Bot Channel or Bank Channel
-				Perms: Owner Only
+				Perms: Admin
 		d. ~bankbal
 				Description: Checks the balance in the Jefferson Central Bank
 				Syntax: " ~bankbal "
