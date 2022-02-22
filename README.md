@@ -1,4 +1,4 @@
-# Sentinel Bot Documentation
+# Rebel Bot Documentation
 
 	1. Test Module
 		a. ~ping
